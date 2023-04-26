@@ -1,0 +1,135 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Private\\Faks\\Algebra - predavanja\\OOP.NET\\2023\\Vjezbe\\Exercises01\\Task07\\Task07.csproj": {}
+  },
+  "projects": {
+    "C:\\Private\\Faks\\Algebra - predavanja\\OOP.NET\\2023\\Vjezbe\\Exercises01\\Task07\\Task07.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Private\\Faks\\Algebra - predavanja\\OOP.NET\\2023\\Vjezbe\\Exercises01\\Task07\\Task07.csproj",
+        "projectName": "Task07",
+        "projectPath": "C:\\Private\\Faks\\Algebra - predavanja\\OOP.NET\\2023\\Vjezbe\\Exercises01\\Task07\\Task07.csproj",
+        "packagesPath": "C:\\Users\\edjapas\\.nuget\\packages\\",
+        "outputPath": "C:\\Private\\Faks\\Algebra - predavanja\\OOP.NET\\2023\\Vjezbe\\Exercises01\\Task07\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\edjapas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Private\\Faks\\Algebra - predavanja\\OOP.NET\\2023\\Vjezbe\\Exercises01\\Utilities\\Utilities.csproj": {
+                "projectPath": "C:\\Private\\Faks\\Algebra - predavanja\\OOP.NET\\2023\\Vjezbe\\Exercises01\\Utilities\\Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Private\\Faks\\Algebra - predavanja\\OOP.NET\\2023\\Vjezbe\\Exercises01\\Utilities\\Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Private\\Faks\\Algebra - predavanja\\OOP.NET\\2023\\Vjezbe\\Exercises01\\Utilities\\Utilities.csproj",
+        "projectName": "Utilities",
+        "projectPath": "C:\\Private\\Faks\\Algebra - predavanja\\OOP.NET\\2023\\Vjezbe\\Exercises01\\Utilities\\Utilities.csproj",
+        "packagesPath": "C:\\Users\\edjapas\\.nuget\\packages\\",
+        "outputPath": "C:\\Private\\Faks\\Algebra - predavanja\\OOP.NET\\2023\\Vjezbe\\Exercises01\\Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\edjapas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
